@@ -1,0 +1,2686 @@
+{
+    "aiimprovements": {
+        "name": "AI-Improvements",
+        "creator": "Unknown",
+        "modid": "aiimprovements",
+        "entities": []
+    },
+    "alexscaves": {
+        "name": "Alex's Caves",
+        "creator": "Alexthe668, Noonyeyz",
+        "modid": "alexscaves",
+        "entities": []
+    },
+    "alexsmobs": {
+        "name": "Alex's Mobs",
+        "creator": "Alexthe668, Carro1001, Paint_Ninja",
+        "modid": "alexsmobs",
+        "entities": []
+    },
+    "almostunified": {
+        "name": "AlmostUnified",
+        "creator": "Almost Reliable",
+        "modid": "almostunified",
+        "entities": []
+    },
+    "alternate_current": {
+        "name": "Alternate Current",
+        "creator": "Space Walker",
+        "modid": "alternate_current",
+        "entities": []
+    },
+    "amendments": {
+        "name": "Amendments",
+        "creator": "MehVahdJukaar",
+        "modid": "amendments",
+        "entities": []
+    },
+    "another_furniture": {
+        "name": "Another Furniture",
+        "creator": "Starfish Studios",
+        "modid": "another_furniture",
+        "entities": []
+    },
+    "ante": {
+        "name": "Anvil Never Too Expensive",
+        "creator": "tinytransfem",
+        "modid": "ante",
+        "entities": []
+    },
+    "anvilrestoration": {
+        "name": "Anvil Restoration",
+        "creator": "Rick South",
+        "modid": "anvilrestoration",
+        "entities": []
+    },
+    "apocalypsenow": {
+        "name": "Apocalypse Now",
+        "creator": "JPZamps",
+        "modid": "apocalypsenow",
+        "entities": []
+    },
+    "appleskin": {
+        "name": "AppleSkin",
+        "creator": "squeek",
+        "modid": "appleskin",
+        "entities": []
+    },
+    "architectury": {
+        "name": "Architectury",
+        "creator": "shedaniel",
+        "modid": "architectury",
+        "entities": []
+    },
+    "armorpointspp": {
+        "name": "ArmorPoints++",
+        "creator": "Cheos",
+        "modid": "armorpointspp",
+        "entities": []
+    },
+    "armorstatues": {
+        "name": "Armor Statues",
+        "creator": "Fuzs",
+        "modid": "armorstatues",
+        "entities": []
+    },
+    "armor_visibility": {
+        "name": "Armor Visibility",
+        "creator": "Trikzon",
+        "modid": "armor_visibility",
+        "entities": []
+    },
+    "artifacts": {
+        "name": "Artifacts",
+        "creator": "ochotonida",
+        "modid": "artifacts",
+        "entities": []
+    },
+    "ash_api": {
+        "name": "Ash API",
+        "creator": "Trikzon",
+        "modid": "ash_api",
+        "entities": []
+    },
+    "athena": {
+        "name": "Athena",
+        "creator": "ThatGravyBoat",
+        "modid": "athena",
+        "entities": []
+    },
+    "atlaslib": {
+        "name": "Atlas Lib",
+        "creator": "Smileycorp",
+        "modid": "atlaslib",
+        "entities": []
+    },
+    "automobility": {
+        "name": "Automobility",
+        "creator": "FoundationGames",
+        "modid": "automobility",
+        "entities": [
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "main",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "old",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "balm": {
+        "name": "Balm",
+        "creator": "BlayTheNinth",
+        "modid": "balm",
+        "entities": []
+    },
+    "betterbiomeblend": {
+        "name": "Better Biome Reblend",
+        "creator": "FionaTheMortal + UTMG",
+        "modid": "betterbiomeblend",
+        "entities": []
+    },
+    "bcc": {
+        "name": "Better Compatibility Checker",
+        "creator": "Gaz",
+        "modid": "bcc",
+        "entities": []
+    },
+    "betterf3": {
+        "name": "BetterF3",
+        "creator": "TreyRuffy and cominixo",
+        "modid": "betterf3",
+        "entities": []
+    },
+    "bettermodsbutton": {
+        "name": "Better Mods Button",
+        "creator": "Fuzs",
+        "modid": "bettermodsbutton",
+        "entities": []
+    },
+    "betterpingdisplay": {
+        "name": "Better Ping Display",
+        "creator": "Quintinity",
+        "modid": "betterpingdisplay",
+        "entities": []
+    },
+    "biomesoplenty": {
+        "name": "Biomes O' Plenty",
+        "creator": "Adubbz, Forstride",
+        "modid": "biomesoplenty",
+        "entities": []
+    },
+    "biomespawnpoint": {
+        "name": "Biome Spawn Point",
+        "creator": "Rick South",
+        "modid": "biomespawnpoint",
+        "entities": []
+    },
+    "blueprint": {
+        "name": "Blueprint",
+        "creator": "Team Abnormals",
+        "modid": "blueprint",
+        "entities": []
+    },
+    "bookshelf": {
+        "name": "Bookshelf",
+        "creator": "Darkhax",
+        "modid": "bookshelf",
+        "entities": []
+    },
+    "botarium": {
+        "name": "Botarium",
+        "creator": "CodexAdrian",
+        "modid": "botarium",
+        "entities": []
+    },
+    "brightnessslider": {
+        "name": "Better Brightness Slider",
+        "creator": "LaidBackSloth",
+        "modid": "brightnessslider",
+        "entities": []
+    },
+    "buildersdelight": {
+        "name": "Builder's Delight",
+        "creator": "Tynoxs",
+        "modid": "buildersdelight",
+        "entities": []
+    },
+    "caelus": {
+        "name": "Caelus API",
+        "creator": "C4",
+        "modid": "caelus",
+        "entities": []
+    },
+    "canary": {
+        "name": "Canary",
+        "creator": "AbdElAziz",
+        "modid": "canary",
+        "entities": []
+    },
+    "carpeted": {
+        "name": "Carpeted",
+        "creator": "MehVahdJukaar",
+        "modid": "carpeted",
+        "entities": []
+    },
+    "carryon": {
+        "name": "Carry On",
+        "creator": "Tschipp, Purplicious_Cow, cy4n",
+        "modid": "carryon",
+        "entities": []
+    },
+    "cfm": {
+        "name": "MrCrayfish's Furniture Mod",
+        "creator": "MrCrayfish",
+        "modid": "cfm",
+        "entities": []
+    },
+    "cgm": {
+        "name": "MrCrayfish's Gun Mod",
+        "creator": "MrCrayfish",
+        "modid": "cgm",
+        "entities": []
+    },
+    "chat_heads": {
+        "name": "Chat Heads",
+        "creator": "dzwdz, Fourmisain",
+        "modid": "chat_heads",
+        "entities": []
+    },
+    "chipped": {
+        "name": "Chipped",
+        "creator": "Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat",
+        "modid": "chipped",
+        "entities": []
+    },
+    "chunky": {
+        "name": "Chunky",
+        "creator": "pop4959",
+        "modid": "chunky",
+        "entities": []
+    },
+    "citadel": {
+        "name": "Citadel",
+        "creator": "Alexthe666",
+        "modid": "citadel",
+        "entities": []
+    },
+    "clayworks": {
+        "name": "Clayworks",
+        "creator": "Team Abnormals",
+        "modid": "clayworks",
+        "entities": []
+    },
+    "clickmachine": {
+        "name": "Click Machine",
+        "creator": "Unknown",
+        "modid": "clickmachine",
+        "entities": []
+    },
+    "clientcrafting": {
+        "name": "clientcrafting mod",
+        "creator": "Someaddon",
+        "modid": "clientcrafting",
+        "entities": []
+    },
+    "clienttweaks": {
+        "name": "Client Tweaks",
+        "creator": "BlayTheNinth",
+        "modid": "clienttweaks",
+        "entities": []
+    },
+    "cloth_config": {
+        "name": "Cloth Config v10 API",
+        "creator": "Unknown",
+        "modid": "cloth_config",
+        "entities": []
+    },
+    "clumps": {
+        "name": "Clumps",
+        "creator": "Jaredlll08",
+        "modid": "clumps",
+        "entities": []
+    },
+    "cold_sweat": {
+        "name": "Cold Sweat",
+        "creator": "iMikul, chubbymomo, skinnymomo",
+        "modid": "cold_sweat",
+        "entities": []
+    },
+    "collective": {
+        "name": "Collective",
+        "creator": "Rick South",
+        "modid": "collective",
+        "entities": []
+    },
+    "comforts": {
+        "name": "Comforts",
+        "creator": "Illusive Soulworks",
+        "modid": "comforts",
+        "entities": []
+    },
+    "commonnetworking": {
+        "name": "Common Networking",
+        "creator": "Mysticdrew",
+        "modid": "commonnetworking",
+        "entities": []
+    },
+    "companion": {
+        "name": "Companion",
+        "creator": "Snownee",
+        "modid": "companion",
+        "entities": []
+    },
+    "Unknown": {
+        "name": "Unknown",
+        "creator": "Unknown",
+        "modid": "Unknown",
+        "entities": []
+    },
+    "continuity": {
+        "name": "Continuity",
+        "creator": "PepperCode1",
+        "modid": "continuity",
+        "entities": []
+    },
+    "controlling": {
+        "name": "Controlling",
+        "creator": "Jaredlll08",
+        "modid": "controlling",
+        "entities": []
+    },
+    "copycats": {
+        "name": "Create: Copycats+",
+        "creator": "Lysine, Bennyboy1695, Redcat_XVIII",
+        "modid": "copycats",
+        "entities": []
+    },
+    "corgilib": {
+        "name": "CorgiLib",
+        "creator": "Corgi Taco",
+        "modid": "corgilib",
+        "entities": []
+    },
+    "cornexpansion": {
+        "name": "[Let's Do Addon] Corn Expansion",
+        "creator": "Ninjdai\nKalWantsPizza\nSatisfy\n",
+        "modid": "cornexpansion",
+        "entities": []
+    },
+    "coroutil": {
+        "name": "CoroUtil",
+        "creator": "Corosus",
+        "modid": "coroutil",
+        "entities": []
+    },
+    "cosmeticarmoursmod": {
+        "name": "CosmeticArmours",
+        "creator": "iiJowonny",
+        "modid": "cosmeticarmoursmod",
+        "entities": []
+    },
+    "cosmeticweaponsmod": {
+        "name": "CosmeticWeapons",
+        "creator": "iiJowonny",
+        "modid": "cosmeticweaponsmod",
+        "entities": []
+    },
+    "craftingtweaks": {
+        "name": "CraftingTweaks",
+        "creator": "BlayTheNinth",
+        "modid": "craftingtweaks",
+        "entities": []
+    },
+    "craftpresence": {
+        "name": "CraftPresence",
+        "creator": "CDAGaming",
+        "modid": "craftpresence",
+        "entities": []
+    },
+    "crash_assistant": {
+        "name": "Crash Assistant",
+        "creator": "KostromDan",
+        "modid": "crash_assistant",
+        "entities": []
+    },
+    "crawlondemand": {
+        "name": "Crawl on Demand",
+        "creator": "Unknown",
+        "modid": "crawlondemand",
+        "entities": []
+    },
+    "createsweetsandtreets": {
+        "name": "CreateSweetsAndTreets",
+        "creator": "Bl4zer",
+        "modid": "createsweetsandtreets",
+        "entities": []
+    },
+    "create": {
+        "name": "Create",
+        "creator": "simibubi",
+        "modid": "create",
+        "entities": [
+            {
+                "id": "crafting_blueprint_large",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "crafting_blueprint_medium",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "crafting_blueprint_small",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "attachment",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "connector",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "ring",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "train_hat",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "createdynlight": {
+        "name": "Create Dynamic Light",
+        "creator": "Leon",
+        "modid": "createdynlight",
+        "entities": []
+    },
+    "create_sa": {
+        "name": "Create Stuff & Additions",
+        "creator": "Furti_Two",
+        "modid": "create_sa",
+        "entities": []
+    },
+    "unify": {
+        "name": "Create: Unify",
+        "creator": "LopyLuna",
+        "modid": "unify",
+        "entities": []
+    },
+    "createaddition": {
+        "name": "Create Crafts & Additions",
+        "creator": "MRH0",
+        "modid": "createaddition",
+        "entities": [
+            {
+                "id": "liquid_hat",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "create_bic_bit": {
+        "name": "Create Bitterballen",
+        "creator": "Pyzpre, VoidMage",
+        "modid": "create_bic_bit",
+        "entities": []
+    },
+    "createbigcannons": {
+        "name": "Create Big Cannons",
+        "creator": "rbasamoyai",
+        "modid": "createbigcannons",
+        "entities": [
+            {
+                "id": "autocannon_round",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "createcafe": {
+        "name": "Create Cafe",
+        "creator": "1mphuls3",
+        "modid": "createcafe",
+        "entities": []
+    },
+    "createcasing": {
+        "name": "Create : Encased",
+        "creator": "iglee42",
+        "modid": "createcasing",
+        "entities": []
+    },
+    "createcobblestone": {
+        "name": "Create cobblestone",
+        "creator": "MrStickyPiston",
+        "modid": "createcobblestone",
+        "entities": []
+    },
+    "createdeco": {
+        "name": "Create Deco",
+        "creator": "Kayla, Talrey",
+        "modid": "createdeco",
+        "entities": []
+    },
+    "createframed": {
+        "name": "Create: Framed",
+        "creator": "DakotaPride",
+        "modid": "createframed",
+        "entities": []
+    },
+    "createliquidfuel": {
+        "name": "Create Liquid Fuel",
+        "creator": "Forsteri",
+        "modid": "createliquidfuel",
+        "entities": []
+    },
+    "numismatics": {
+        "name": "Create: Numismatics",
+        "creator": "IThundxr, Violet, Pink, Slimeist, Razziel",
+        "modid": "numismatics",
+        "entities": [
+            {
+                "id": "tophat",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "createutilities": {
+        "name": "Create Utilities",
+        "creator": "Duquee_",
+        "modid": "createutilities",
+        "entities": []
+    },
+    "create_central_kitchen": {
+        "name": "Create: Central Kitchen",
+        "creator": "LimonBlaze, MarbleGate and Etherwood",
+        "modid": "create_central_kitchen",
+        "entities": []
+    },
+    "create_compressed": {
+        "name": "Create Compressed",
+        "creator": "NoCube",
+        "modid": "create_compressed",
+        "entities": []
+    },
+    "create_connected": {
+        "name": "Create: Connected",
+        "creator": "Lysine",
+        "modid": "create_connected",
+        "entities": []
+    },
+    "create_copper_and_zinc": {
+        "name": "Create: Copper and Zinc",
+        "creator": "robinfrt",
+        "modid": "create_copper_and_zinc",
+        "entities": []
+    },
+    "create_deepfried": {
+        "name": "Create: Deepfried",
+        "creator": "Pyzpre, Vitecekuwu",
+        "modid": "create_deepfried",
+        "entities": []
+    },
+    "create_enchantment_industry": {
+        "name": "Create Enchantment Industry",
+        "creator": "MarbleGateKeeper & LimonBlaze",
+        "modid": "create_enchantment_industry",
+        "entities": []
+    },
+    "create_mechanical_spawner": {
+        "name": "Create Mechanical Spawner",
+        "creator": "oierbravo",
+        "modid": "create_mechanical_spawner",
+        "entities": []
+    },
+    "create_things_and_misc": {
+        "name": "create: things and misc",
+        "creator": "To0pa, Unusual Squad, MCreator",
+        "modid": "create_things_and_misc",
+        "entities": []
+    },
+    "create_power_loader": {
+        "name": "Create: Power Loader",
+        "creator": "Lysine",
+        "modid": "create_power_loader",
+        "entities": []
+    },
+    "create_questing": {
+        "name": "Create Questing",
+        "creator": "ElocinDev",
+        "modid": "create_questing",
+        "entities": []
+    },
+    "creativecore": {
+        "name": "CreativeCore",
+        "creator": "CreativeMD",
+        "modid": "creativecore",
+        "entities": []
+    },
+    "creeperoverhaul": {
+        "name": "Creeper Overhaul",
+        "creator": "Artist/Creator - Joosh, Dev - ThatGravyBoat",
+        "modid": "creeperoverhaul",
+        "entities": []
+    },
+    "crittersandcompanions": {
+        "name": "Critters and Companions",
+        "creator": "Joosh, EterDelta",
+        "modid": "crittersandcompanions",
+        "entities": [
+            {
+                "id": "baby_ferret.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "baby_otter.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "baby_red_panda.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "dragonfly.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "dumbo_octopus.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "ferret.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "jumping_spider.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "koi_fish.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "leaf_insect.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "otter.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "red_panda.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "sea_bunny.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "shima_enaga.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "baby_ferret.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "baby_otter.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "baby_red_panda.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "dragonfly.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "dumbo_octopus.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "ferret.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "jumping_spider.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "koi_fish.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "leaf_insect.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "otter.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "red_panda.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "sea_bunny.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "shima_enaga.geo",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "croaks": {
+        "name": "Ribbits Add On: Croaks",
+        "creator": "jonah, MCreator",
+        "modid": "croaks",
+        "entities": []
+    },
+    "crossbowverhaul": {
+        "name": "Crossbowverhaul",
+        "creator": "DerToaster",
+        "modid": "crossbowverhaul",
+        "entities": []
+    },
+    "cullleaves": {
+        "name": "CullLeaves",
+        "creator": "Motschen, TeamMidnightDust",
+        "modid": "cullleaves",
+        "entities": []
+    },
+    "culllessleaves": {
+        "name": "Cull Less Leaves Reforged",
+        "creator": "CCr4ft3r (this port), isXander (original fabric version)",
+        "modid": "culllessleaves",
+        "entities": []
+    },
+    "cupboard": {
+        "name": "Cupboard utilities",
+        "creator": "Someaddon",
+        "modid": "cupboard",
+        "entities": []
+    },
+    "curios": {
+        "name": "Curios API",
+        "creator": "C4",
+        "modid": "curios",
+        "entities": []
+    },
+    "curiouslanterns": {
+        "name": "Curious Lanterns",
+        "creator": "Psilocke",
+        "modid": "curiouslanterns",
+        "entities": []
+    },
+    "cutthrough": {
+        "name": "Cut Through",
+        "creator": "Fuzs",
+        "modid": "cutthrough",
+        "entities": []
+    },
+    "cubes_without_borders": {
+        "name": "Cubes Without Borders",
+        "creator": "Kir_Antipov",
+        "modid": "cubes_without_borders",
+        "entities": []
+    },
+    "dataanchor": {
+        "name": "Data Anchor",
+        "creator": "Corgi Taco",
+        "modid": "dataanchor",
+        "entities": []
+    },
+    "defaultoptions": {
+        "name": "Default Options",
+        "creator": "BlayTheNinth",
+        "modid": "defaultoptions",
+        "entities": []
+    },
+    "deuf": {
+        "name": "DEUF - Duplicate Entity UUID Fix",
+        "creator": "CAS_ual_TY",
+        "modid": "deuf",
+        "entities": []
+    },
+    "diet": {
+        "name": "Diet",
+        "creator": "C4",
+        "modid": "diet",
+        "entities": []
+    },
+    "doaddonfluids": {
+        "name": "[Let's Do Addon] Fluids",
+        "creator": "Ninjdai",
+        "modid": "doaddonfluids",
+        "entities": []
+    },
+    "drippyloadingscreen": {
+        "name": "Drippy Loading Screen",
+        "creator": "Keksuccino",
+        "modid": "drippyloadingscreen",
+        "entities": []
+    },
+    "dummmmmmy": {
+        "name": "MmmMmmMmmmmm",
+        "creator": "MehVahdJukaar, Bonusboni",
+        "modid": "dummmmmmy",
+        "entities": []
+    },
+    "durabilitytooltip": {
+        "name": "Durability Tooltip",
+        "creator": "SuperMartijn642",
+        "modid": "durabilitytooltip",
+        "entities": []
+    },
+    "dynamic_fps": {
+        "name": "Dynamic FPS",
+        "creator": "juliand665 & LostLuma",
+        "modid": "dynamic_fps",
+        "entities": []
+    },
+    "dynamiclights": {
+        "name": "Dynamic Lights",
+        "creator": "Tschipcraft",
+        "modid": "dynamiclights",
+        "entities": []
+    },
+    "embeddium": {
+        "name": "Embeddium",
+        "creator": "embeddedt",
+        "modid": "embeddium",
+        "entities": []
+    },
+    "embellishcraft": {
+        "name": "EmbellishCraft",
+        "creator": "Mapper",
+        "modid": "embellishcraft",
+        "entities": []
+    },
+    "enchdesc": {
+        "name": "EnchantmentDescriptions",
+        "creator": "Darkhax",
+        "modid": "enchdesc",
+        "entities": []
+    },
+    "endermanoverhaul": {
+        "name": "Enderman Overhaul",
+        "creator": "Alex Nijjar, Joosh",
+        "modid": "endermanoverhaul",
+        "entities": [
+            {
+                "id": "coral_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "dark_oak_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "desert_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "end_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "end_islands_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "ender_bullet.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "flower_fields_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "ice_spikes_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "scarab.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "snowy_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "soulsand_valley_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "spirit.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "warped_forest_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "windswept_hills_enderman.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "axolotl_pet_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "badlands_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "cave_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "coral_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "crimson_forest_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "dark_oak_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "default_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "desert_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "end_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "end_islands_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "ender_bullet.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "flower_fields_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "hammerhead_pet_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "ice_spikes_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "mushroom_fields_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "nether_wastes_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "pet_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "savanna_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "scarab.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "snowy_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "soulsand_valley_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "spirit.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "swamp_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "warped_forest_enderman.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "windswept_hills_enderman.geo",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "enhancedcelestials": {
+        "name": "Enhanced Celestials",
+        "creator": "Corgi Taco",
+        "modid": "enhancedcelestials",
+        "entities": []
+    },
+    "enhancedai": {
+        "name": "Enhanced AI",
+        "creator": "Insane96MCP",
+        "modid": "enhancedai",
+        "entities": []
+    },
+    "entityculling": {
+        "name": "EntityCulling",
+        "creator": "tr7zw",
+        "modid": "entityculling",
+        "entities": []
+    },
+    "equipmentcompare": {
+        "name": "Equipment Compare",
+        "creator": "Grend",
+        "modid": "equipmentcompare",
+        "entities": []
+    },
+    "expandability": {
+        "name": "ExpandAbility",
+        "creator": "Florens",
+        "modid": "expandability",
+        "entities": []
+    },
+    "explorerscompass": {
+        "name": "Explorer's Compass",
+        "creator": "ChaosTheDude",
+        "modid": "explorerscompass",
+        "entities": []
+    },
+    "exposure": {
+        "name": "Exposure",
+        "creator": "mortuusars",
+        "modid": "exposure",
+        "entities": []
+    },
+    "extendedgears": {
+        "name": "Extended Cogwheels",
+        "creator": "Rabbitminers",
+        "modid": "extendedgears",
+        "entities": []
+    },
+    "extremesoundmuffler": {
+        "name": "Extreme Sound Muffler",
+        "creator": "LeoBeliik",
+        "modid": "extremesoundmuffler",
+        "entities": []
+    },
+    "fabric_api": {
+        "name": "Forgified Fabric API",
+        "creator": "FabricMC, Sinytra",
+        "modid": "fabric_api",
+        "entities": []
+    },
+    "fairylights": {
+        "name": "Fairy Lights",
+        "creator": "pau101",
+        "modid": "fairylights",
+        "entities": [
+            {
+                "id": "ampersand",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_eight",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_five",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_four",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_nine",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_one",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_seven",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_six",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_three",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_two",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "digit_zero",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "exclamation_mark",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_a",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_b",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_c",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_d",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_e",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_f",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_g",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_h",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_i",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_j",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_k",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_l",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_m",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_n",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_o",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_p",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_q",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_r",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_s",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_t",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_u",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_v",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_w",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_x",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_y",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "latin_capital_letter_z",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "question_mark",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "spearhead_pennant",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "square_pennant",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "swallowtail_pennant",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "triangle_pennant",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "fallingtree": {
+        "name": "FallingTree",
+        "creator": "Rakambda",
+        "modid": "fallingtree",
+        "entities": []
+    },
+    "fancymenu": {
+        "name": "FancyMenu",
+        "creator": "Keksuccino",
+        "modid": "fancymenu",
+        "entities": []
+    },
+    "fastipping": {
+        "name": "Fast IP Ping",
+        "creator": "Fallen_Breath",
+        "modid": "fastipping",
+        "entities": []
+    },
+    "fastasyncworldsave": {
+        "name": "fastasyncworldsave mod",
+        "creator": "Someaddon",
+        "modid": "fastasyncworldsave",
+        "entities": []
+    },
+    "fastfurnace": {
+        "name": "FastFurnace",
+        "creator": "Unknown",
+        "modid": "fastfurnace",
+        "entities": []
+    },
+    "fastpaintings": {
+        "name": "Fast Paintings",
+        "creator": "MehVahdJukaar",
+        "modid": "fastpaintings",
+        "entities": []
+    },
+    "fastsuite": {
+        "name": "Fast Suite",
+        "creator": "Unknown",
+        "modid": "fastsuite",
+        "entities": []
+    },
+    "fastbench": {
+        "name": "Fast Workbench",
+        "creator": "Unknown",
+        "modid": "fastbench",
+        "entities": []
+    },
+    "ferritecore": {
+        "name": "Ferrite Core",
+        "creator": "malte0811",
+        "modid": "ferritecore",
+        "entities": []
+    },
+    "firstaid": {
+        "name": "First Aid",
+        "creator": "Unknown",
+        "modid": "firstaid",
+        "entities": []
+    },
+    "firstperson": {
+        "name": "FirstPerson",
+        "creator": "tr7zw",
+        "modid": "firstperson",
+        "entities": []
+    },
+    "hws": {
+        "name": "How We Sleep",
+        "creator": "TheShadowModsUK",
+        "modid": "hws",
+        "entities": []
+    },
+    "nctsmuk": {
+        "name": "NappyCraft",
+        "creator": "TheShadowModsUK",
+        "modid": "nctsmuk",
+        "entities": []
+    },
+    "pctsmuk": {
+        "name": "PaciCraft",
+        "creator": "TheShadowModsUK & LittleBoyBlue2007",
+        "modid": "pctsmuk",
+        "entities": []
+    },
+    "framework": {
+        "name": "Framework",
+        "creator": "MrCrayfish",
+        "modid": "framework",
+        "entities": []
+    },
+    "friendsandfoes": {
+        "name": "Friends&Foes",
+        "creator": "Faboslav",
+        "modid": "friendsandfoes",
+        "entities": []
+    },
+    "ftblibrary": {
+        "name": "FTB Library",
+        "creator": "FTB Team",
+        "modid": "ftblibrary",
+        "entities": []
+    },
+    "ftbquests": {
+        "name": "FTB Quests",
+        "creator": "FTB Team",
+        "modid": "ftbquests",
+        "entities": []
+    },
+    "ftbteams": {
+        "name": "FTB Teams",
+        "creator": "FTB Team",
+        "modid": "ftbteams",
+        "entities": []
+    },
+    "geckolib": {
+        "name": "GeckoLib 4",
+        "creator": "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin",
+        "modid": "geckolib",
+        "entities": [
+            {
+                "id": "bat.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "bike.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "cool_kid.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "creeper.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "fake_glass.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "gremlin.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "mutant_zombie.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "parasite.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "race_car.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "rocket.animation",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "bat.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "bike.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "cool_kid.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "creeper.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "fake_glass.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "gremlin.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "mutant_zombie.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "parasite.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "race_car.geo",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "rocket.geo",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "getittogetherdrops": {
+        "name": "Get It Together, Drops!",
+        "creator": "bl4ckscor3",
+        "modid": "getittogetherdrops",
+        "entities": []
+    },
+    "glitchcore": {
+        "name": "GlitchCore",
+        "creator": "Adubbz",
+        "modid": "glitchcore",
+        "entities": []
+    },
+    "gpu_tape": {
+        "name": "GPUTape",
+        "creator": "mr_toad",
+        "modid": "gpu_tape",
+        "entities": []
+    },
+    "guardribbits": {
+        "name": "Guard Ribbits",
+        "creator": "sunbatheproductions28",
+        "modid": "guardribbits",
+        "entities": []
+    },
+    "guardvillagers": {
+        "name": "Guard Villagers",
+        "creator": "TallestEgg, HadeZ/SadNya69 for the textures.",
+        "modid": "guardvillagers",
+        "entities": []
+    },
+    "handcrafted": {
+        "name": "Handcrafted",
+        "creator": "Alex Nijjar, Kekie6",
+        "modid": "handcrafted",
+        "entities": []
+    },
+    "highlight": {
+        "name": "Highlight",
+        "creator": "ThatGravyBoat",
+        "modid": "highlight",
+        "entities": []
+    },
+    "icarus": {
+        "name": "Icarus",
+        "creator": "Cammie, Up",
+        "modid": "icarus",
+        "entities": []
+    },
+    "iceberg": {
+        "name": "Iceberg",
+        "creator": "Grend",
+        "modid": "iceberg",
+        "entities": []
+    },
+    "immediatelyfast": {
+        "name": "ImmediatelyFast",
+        "creator": "RK_01",
+        "modid": "immediatelyfast",
+        "entities": []
+    },
+    "immersiveengineering": {
+        "name": "Immersive Engineering",
+        "creator": "BluSunrize and Damien A.W. Hazard",
+        "modid": "immersiveengineering",
+        "entities": []
+    },
+    "immersive_aircraft": {
+        "name": "Immersive Aircraft",
+        "creator": "Luke100000",
+        "modid": "immersive_aircraft",
+        "entities": []
+    },
+    "immersive_armors": {
+        "name": "Immersive Armors",
+        "creator": "Luke100000",
+        "modid": "immersive_armors",
+        "entities": []
+    },
+    "immersive_melodies": {
+        "name": "Immersive Melodies",
+        "creator": "Luke100000",
+        "modid": "immersive_melodies",
+        "entities": []
+    },
+    "immersive_paintings": {
+        "name": "Immersive Paintings",
+        "creator": "Luke100000",
+        "modid": "immersive_paintings",
+        "entities": []
+    },
+    "incontrol": {
+        "name": "InControl",
+        "creator": "Unknown",
+        "modid": "incontrol",
+        "entities": []
+    },
+    "insanelib": {
+        "name": "InsaneLib",
+        "creator": "Insane96MCP",
+        "modid": "insanelib",
+        "entities": []
+    },
+    "interiors": {
+        "name": "Create: Interiors",
+        "creator": "sudolev",
+        "modid": "interiors",
+        "entities": []
+    },
+    "inventoryprofilesnext": {
+        "name": "Inventory Profiles Next",
+        "creator": "blackd/mirinimi",
+        "modid": "inventoryprofilesnext",
+        "entities": []
+    },
+    "jade": {
+        "name": "Jade",
+        "creator": "Snownee",
+        "modid": "jade",
+        "entities": []
+    },
+    "jamlib": {
+        "name": "JamLib",
+        "creator": "Jamalam",
+        "modid": "jamlib",
+        "entities": []
+    },
+    "jei": {
+        "name": "Just Enough Items",
+        "creator": "mezz",
+        "modid": "jei",
+        "entities": []
+    },
+    "jeimultiblocks": {
+        "name": "Just Enough Immersive Multiblocks",
+        "creator": "sguest",
+        "modid": "jeimultiblocks",
+        "entities": []
+    },
+    "justenoughbreeding": {
+        "name": "Just Enough Breeding",
+        "creator": "Christofmeg",
+        "modid": "justenoughbreeding",
+        "entities": []
+    },
+    "justenoughprofessions": {
+        "name": "Just Enough Professions (JEP)",
+        "creator": "Mrbysco, ShyNieke",
+        "modid": "justenoughprofessions",
+        "entities": []
+    },
+    "jeresources": {
+        "name": "Just Enough Resources",
+        "creator": "way2muchnoise",
+        "modid": "jeresources",
+        "entities": []
+    },
+    "kiwi": {
+        "name": "Kiwi Library",
+        "creator": "Snownee",
+        "modid": "kiwi",
+        "entities": []
+    },
+    "konkrete": {
+        "name": "Konkrete",
+        "creator": "Keksuccino",
+        "modid": "konkrete",
+        "entities": []
+    },
+    "kubejs": {
+        "name": "KubeJS",
+        "creator": "LatvianModder",
+        "modid": "kubejs",
+        "entities": []
+    },
+    "legendarytooltips": {
+        "name": "Legendary Tooltips",
+        "creator": "Grend",
+        "modid": "legendarytooltips",
+        "entities": []
+    },
+    "letsdoaddonstructures": {
+        "name": "[Let's Do Addon] Structures",
+        "creator": "Ninjdai",
+        "modid": "letsdoaddonstructures",
+        "entities": []
+    },
+    "doapi": {
+        "name": "[Let's Do] API",
+        "creator": "Cristelknight, BaumeisterJO",
+        "modid": "doapi",
+        "entities": []
+    },
+    "bakery": {
+        "name": "[Let's Do] Bakery",
+        "creator": "Satisfy",
+        "modid": "bakery",
+        "entities": []
+    },
+    "beachparty": {
+        "name": "[Let's Do] Beachparty",
+        "creator": "Satisfy, Jason13",
+        "modid": "beachparty",
+        "entities": []
+    },
+    "bloomingnature": {
+        "name": "[Let's Do] BloomingNature",
+        "creator": "satisfy",
+        "modid": "bloomingnature",
+        "entities": []
+    },
+    "brewery": {
+        "name": "[Let's Do] Brewery",
+        "creator": "satisfy",
+        "modid": "brewery",
+        "entities": []
+    },
+    "camping": {
+        "name": "[Let's Do] Camping",
+        "creator": "satisfy, jason13",
+        "modid": "camping",
+        "entities": []
+    },
+    "candlelight": {
+        "name": "[Let's Do] Candlelight",
+        "creator": "satisfy_u, Cristelknight, BaumeisterJo",
+        "modid": "candlelight",
+        "entities": []
+    },
+    "farm_and_charm": {
+        "name": "[Let's Do] Farm & Charm",
+        "creator": "satisfy, jason13",
+        "modid": "farm_and_charm",
+        "entities": []
+    },
+    "furniture": {
+        "name": "[Let's Do] Furniture",
+        "creator": "berksire, satisfy, cph101",
+        "modid": "furniture",
+        "entities": []
+    },
+    "herbalbrews": {
+        "name": "[Let's Do] HerbalBrews",
+        "creator": "satisfy",
+        "modid": "herbalbrews",
+        "entities": []
+    },
+    "lilis_lucky_lures": {
+        "name": "[Let's Do] Lilis Lucky Lures",
+        "creator": "Satisfy, MissLilitu",
+        "modid": "lilis_lucky_lures",
+        "entities": []
+    },
+    "meadow": {
+        "name": "[Let's Do] Meadow",
+        "creator": "satisfy, jason13official",
+        "modid": "meadow",
+        "entities": []
+    },
+    "nethervinery": {
+        "name": "[Let's Do] NetherVinery",
+        "creator": "satisfy",
+        "modid": "nethervinery",
+        "entities": []
+    },
+    "vinery": {
+        "name": "[Let's Do] Vinery",
+        "creator": "Jason13Official, Satisfy",
+        "modid": "vinery",
+        "entities": []
+    },
+    "libipn": {
+        "name": "libIPN",
+        "creator": "blackd/mirinimi",
+        "modid": "libipn",
+        "entities": []
+    },
+    "logbegone": {
+        "name": "Log Begone",
+        "creator": "AzureDoomC, Bravarly",
+        "modid": "logbegone",
+        "entities": []
+    },
+    "lootjs": {
+        "name": "LootJS",
+        "creator": "AlmostReliable",
+        "modid": "lootjs",
+        "entities": []
+    },
+    "lootr": {
+        "name": "Lootr",
+        "creator": "Noobanidus",
+        "modid": "lootr",
+        "entities": []
+    },
+    "lostcities": {
+        "name": "LostCities",
+        "creator": "Unknown",
+        "modid": "lostcities",
+        "entities": []
+    },
+    "lostsouls": {
+        "name": "LostSouls",
+        "creator": "Unknown",
+        "modid": "lostsouls",
+        "entities": []
+    },
+    "lucent": {
+        "name": "Lucent",
+        "creator": "Silver_David",
+        "modid": "lucent",
+        "entities": []
+    },
+    "make_bubbles_pop": {
+        "name": "Make Bubbles Pop",
+        "creator": "Tschipcraft",
+        "modid": "make_bubbles_pop",
+        "entities": []
+    },
+    "mapperbase": {
+        "name": "Mapper Base",
+        "creator": "Mapper",
+        "modid": "mapperbase",
+        "entities": []
+    },
+    "maxhealthfix": {
+        "name": "MaxHealthFix",
+        "creator": "Darkhax",
+        "modid": "maxhealthfix",
+        "entities": []
+    },
+    "measurements": {
+        "name": "Measurements",
+        "creator": "Mrbysco",
+        "modid": "measurements",
+        "entities": []
+    },
+    "mekanism": {
+        "name": "Mekanism",
+        "creator": "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd",
+        "modid": "mekanism",
+        "entities": [
+            {
+                "id": "robit",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "mekanismgenerators": {
+        "name": "Mekanism: Generators",
+        "creator": "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd",
+        "modid": "mekanismgenerators",
+        "entities": []
+    },
+    "mekanismtools": {
+        "name": "Mekanism: Tools",
+        "creator": "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd",
+        "modid": "mekanismtools",
+        "entities": []
+    },
+    "melody": {
+        "name": "Melody",
+        "creator": "Keksuccino",
+        "modid": "melody",
+        "entities": []
+    },
+    "memoryleakfix": {
+        "name": "Memory Leak Fix",
+        "creator": "FX - PR0CESS",
+        "modid": "memoryleakfix",
+        "entities": []
+    },
+    "midnightlib": {
+        "name": "MidnightLib",
+        "creator": "TeamMidnightDust, Motschen",
+        "modid": "midnightlib",
+        "entities": []
+    },
+    "mca": {
+        "name": "Minecraft Comes Alive",
+        "creator": "Luke100000, S0llace, CDAGaming, ffrannny, jahx_senpoopie, WildBamaBoy, SheWolfDeadly",
+        "modid": "mca",
+        "entities": []
+    },
+    "mo_glass": {
+        "name": "Mo Glass",
+        "creator": "Alexander01998",
+        "modid": "mo_glass",
+        "entities": []
+    },
+    "mobsunscreen": {
+        "name": "Mob Sunscreen",
+        "creator": "Kreezxil",
+        "modid": "mobsunscreen",
+        "entities": []
+    },
+    "mobtimizations": {
+        "name": "Mobtimizations",
+        "creator": "Corosus",
+        "modid": "mobtimizations",
+        "entities": []
+    },
+    "modernfix": {
+        "name": "ModernFix",
+        "creator": "embeddedt",
+        "modid": "modernfix",
+        "entities": []
+    },
+    "modonomicon": {
+        "name": "Modonomicon",
+        "creator": "Kli Kli",
+        "modid": "modonomicon",
+        "entities": []
+    },
+    "molten_metals": {
+        "name": "Molten Metals",
+        "creator": "Ordana, Kayla_the_bee",
+        "modid": "molten_metals",
+        "entities": []
+    },
+    "moonlight": {
+        "name": "Moonlight Library",
+        "creator": "MehVahdJukaar",
+        "modid": "moonlight",
+        "entities": []
+    },
+    "moreconcrete": {
+        "name": "More Concrete",
+        "creator": "Autovw",
+        "modid": "moreconcrete",
+        "entities": []
+    },
+    "mousetweaks": {
+        "name": "Mouse Tweaks",
+        "creator": "Ivan Molodetskikh (YaLTeR)",
+        "modid": "mousetweaks",
+        "entities": []
+    },
+    "myserveriscompatible": {
+        "name": "MyServerIsCompatible",
+        "creator": "focamacho",
+        "modid": "myserveriscompatible",
+        "entities": []
+    },
+    "nameless_trinkets": {
+        "name": "Nameless Trinkets",
+        "creator": "Cozary",
+        "modid": "nameless_trinkets",
+        "entities": []
+    },
+    "nanhealthfixer": {
+        "name": "NaNHealthFixer",
+        "creator": "TeamPotato",
+        "modid": "nanhealthfixer",
+        "entities": []
+    },
+    "naturescompass": {
+        "name": "Nature's Compass",
+        "creator": "ChaosTheDude",
+        "modid": "naturescompass",
+        "entities": []
+    },
+    "necronomicon": {
+        "name": "Necronomicon",
+        "creator": "ElocinDev",
+        "modid": "necronomicon",
+        "entities": []
+    },
+    "netherportalfix": {
+        "name": "NetherPortalFix",
+        "creator": "BlayTheNinth",
+        "modid": "netherportalfix",
+        "entities": []
+    },
+    "nfm": {
+        "name": "Nosiphus Furniture Mod",
+        "creator": "Nosiphus",
+        "modid": "nfm",
+        "entities": []
+    },
+    "nightlights": {
+        "name": "Night Lights",
+        "creator": "Joosh and samgj15",
+        "modid": "nightlights",
+        "entities": []
+    },
+    "noisium": {
+        "name": "Noisium",
+        "creator": "Steveplays28",
+        "modid": "noisium",
+        "entities": []
+    },
+    "nostartupmessages": {
+        "name": "No Startup Messages Please",
+        "creator": "LobsterJonn",
+        "modid": "nostartupmessages",
+        "entities": []
+    },
+    "nerb": {
+        "name": "Not Enough Recipe Book",
+        "creator": "OctoStudios",
+        "modid": "nerb",
+        "entities": []
+    },
+    "notenoughanimations": {
+        "name": "NotEnoughAnimations",
+        "creator": "tr7zw",
+        "modid": "notenoughanimations",
+        "entities": []
+    },
+    "novillagerdm": {
+        "name": "No Villager Death Messages",
+        "creator": "Unknown",
+        "modid": "novillagerdm",
+        "entities": []
+    },
+    "nyfsspiders": {
+        "name": "Nyf's Spiders",
+        "creator": "Nyfaria",
+        "modid": "nyfsspiders",
+        "entities": []
+    },
+    "octolib": {
+        "name": "OctoLib",
+        "creator": "OctoStudios",
+        "modid": "octolib",
+        "entities": []
+    },
+    "oculus": {
+        "name": "Oculus",
+        "creator": "NanoLive, dima_dencep, coderbot, IMS212, Justsnoopy30, FoundationGames",
+        "modid": "oculus",
+        "entities": []
+    },
+    "packetfixer": {
+        "name": "Packet Fixer",
+        "creator": "TonimatasDEV",
+        "modid": "packetfixer",
+        "entities": []
+    },
+    "pamhc2crops": {
+        "name": "Pam's HarvestCraft 2 - Crops",
+        "creator": "Love, Cheese and small house plants",
+        "modid": "pamhc2crops",
+        "entities": []
+    },
+    "pamhc2foodcore": {
+        "name": "Pam's HarvestCraft 2 - Food Core",
+        "creator": "Pamela Collins, ie MatrexsVigil, PamHarvestCraft",
+        "modid": "pamhc2foodcore",
+        "entities": []
+    },
+    "pamhc2foodextended": {
+        "name": "Pam's HarvestCraft 2 - Food Extended",
+        "creator": "Love, Cheese and small house plants",
+        "modid": "pamhc2foodextended",
+        "entities": []
+    },
+    "pamhc2trees": {
+        "name": "Pam's HarvestCraft 2 - Trees",
+        "creator": "Love, Cheese and small house plants",
+        "modid": "pamhc2trees",
+        "entities": []
+    },
+    "patchouli": {
+        "name": "Patchouli",
+        "creator": "Vazkii",
+        "modid": "patchouli",
+        "entities": []
+    },
+    "peacefulmoon": {
+        "name": "Peaceful Moon",
+        "creator": "Draconic Archer",
+        "modid": "peacefulmoon",
+        "entities": []
+    },
+    "pehkui": {
+        "name": "Pehkui",
+        "creator": "Virtuoel",
+        "modid": "pehkui",
+        "entities": []
+    },
+    "placebo": {
+        "name": "Placebo",
+        "creator": "Unknown",
+        "modid": "placebo",
+        "entities": []
+    },
+    "playdate": {
+        "name": "Playdate",
+        "creator": "Frogipher, ThatGravyBoat",
+        "modid": "playdate",
+        "entities": []
+    },
+    "polymorph": {
+        "name": "Polymorph",
+        "creator": "Illusive Soulworks",
+        "modid": "polymorph",
+        "entities": []
+    },
+    "prism": {
+        "name": "Prism",
+        "creator": "Grend",
+        "modid": "prism",
+        "entities": []
+    },
+    "puzzleslib": {
+        "name": "Puzzles Lib",
+        "creator": "Fuzs",
+        "modid": "puzzleslib",
+        "entities": []
+    },
+    "quark": {
+        "name": "Quark",
+        "creator": "Vazkii, WireSegal, MCVinnyq, Sully",
+        "modid": "quark",
+        "entities": []
+    },
+    "radiantgear": {
+        "name": "Radiant Gear",
+        "creator": "Illusive Soulworks",
+        "modid": "radiantgear",
+        "entities": []
+    },
+    "realmrpg_skeletons": {
+        "name": "Realm RPG: Fallen Adventurers",
+        "creator": "NoCube",
+        "modid": "realmrpg_skeletons",
+        "entities": []
+    },
+    "refurbished_furniture": {
+        "name": "MrCrayfish's Furniture Mod: Refurbished",
+        "creator": "MrCrayfish",
+        "modid": "refurbished_furniture",
+        "entities": []
+    },
+    "resourcefulconfig": {
+        "name": "Resourcefulconfig",
+        "creator": "Unknown",
+        "modid": "resourcefulconfig",
+        "entities": []
+    },
+    "resourcefullib": {
+        "name": "Resourceful Lib",
+        "creator": "ThatGravyBoat, Epic_Oreo",
+        "modid": "resourcefullib",
+        "entities": []
+    },
+    "rhino": {
+        "name": "Rhino",
+        "creator": "latvian.dev, Mozilla",
+        "modid": "rhino",
+        "entities": []
+    },
+    "ribbits": {
+        "name": "Ribbits",
+        "creator": "Joosh, YUNGNICKYOUNG, HellionGames, Refresh Studios",
+        "modid": "ribbits",
+        "entities": []
+    },
+    "rightclickharvest": {
+        "name": "Right Click Harvest",
+        "creator": "Jamalam",
+        "modid": "rightclickharvest",
+        "entities": []
+    },
+    "sawmill": {
+        "name": "Universal Sawmill",
+        "creator": "MehVahdJukaar",
+        "modid": "sawmill",
+        "entities": []
+    },
+    "screenshotclipboard": {
+        "name": "Screenshot to Clipboard",
+        "creator": "comp500",
+        "modid": "screenshotclipboard",
+        "entities": []
+    },
+    "searchables": {
+        "name": "Searchables",
+        "creator": "Jaredlll08",
+        "modid": "searchables",
+        "entities": []
+    },
+    "seasonal_lets_do": {
+        "name": "Seasonal Let's Do",
+        "creator": "xHyroM",
+        "modid": "seasonal_lets_do",
+        "entities": []
+    },
+    "sereneseasons": {
+        "name": "Serene Seasons",
+        "creator": "Adubbz, Forstride",
+        "modid": "sereneseasons",
+        "entities": []
+    },
+    "sereneseasonsphc2crops": {
+        "name": "Serene Seasons - Pam's HarvestCraft 2 - Crops Compat",
+        "creator": "Darkorg",
+        "modid": "sereneseasonsphc2crops",
+        "entities": []
+    },
+    "sereneseasonsphc2trees": {
+        "name": "Serene Seasons - Pam's HarvestCraft 2 - Trees Compat",
+        "creator": "Darkorg",
+        "modid": "sereneseasonsphc2trees",
+        "entities": []
+    },
+    "serversleep_mr": {
+        "name": "ServerSleep",
+        "creator": "Aninuscsalas",
+        "modid": "serversleep_mr",
+        "entities": []
+    },
+    "shouldersurfing": {
+        "name": "Shoulder Surfing Reloaded",
+        "creator": "Exopandora",
+        "modid": "shouldersurfing",
+        "entities": []
+    },
+    "shulkerboxtooltip": {
+        "name": "ShulkerBoxTooltip",
+        "creator": "MisterPeModder",
+        "modid": "shulkerboxtooltip",
+        "entities": []
+    },
+    "shut_up_gl_error": {
+        "name": "Shut Up GL Error",
+        "creator": "Jamalam",
+        "modid": "shut_up_gl_error",
+        "entities": []
+    },
+    "simplehats": {
+        "name": "SimpleHats",
+        "creator": "Fonnymunkey, ArtsyDy",
+        "modid": "simplehats",
+        "entities": []
+    },
+    "simpleplanes": {
+        "name": "Simple Planes",
+        "creator": "adoxentor, Przemyk",
+        "modid": "simpleplanes",
+        "entities": []
+    },
+    "simplylight": {
+        "name": "Simply Light",
+        "creator": "Flanks255",
+        "modid": "simplylight",
+        "entities": []
+    },
+    "sit": {
+        "name": "Sit",
+        "creator": "bl4ckscor3",
+        "modid": "sit",
+        "entities": []
+    },
+    "skinlayers3d": {
+        "name": "3d-Skin-Layers",
+        "creator": "tr7zw",
+        "modid": "skinlayers3d",
+        "entities": []
+    },
+    "smartbrainlib": {
+        "name": "SmartBrainLib",
+        "creator": "Tslat",
+        "modid": "smartbrainlib",
+        "entities": []
+    },
+    "smoothboot": {
+        "name": "Smooth Boot (Reloaded)",
+        "creator": "AbdElAziz",
+        "modid": "smoothboot",
+        "entities": []
+    },
+    "smoothchunk": {
+        "name": "Smoothchunk mod",
+        "creator": "Someaddons",
+        "modid": "smoothchunk",
+        "entities": []
+    },
+    "snowrealmagic": {
+        "name": "Snow! Real Magic!",
+        "creator": "Snownee, minzhi, WZD",
+        "modid": "snowrealmagic",
+        "entities": []
+    },
+    "solonion": {
+        "name": "Spice of Life Onion",
+        "creator": "tarinoita, CreativeMD",
+        "modid": "solonion",
+        "entities": []
+    },
+    "sound_physics_remastered": {
+        "name": "Sound Physics Remastered",
+        "creator": "Sonic Ether, vlad2305m, Max Henkel, Saint",
+        "modid": "sound_physics_remastered",
+        "entities": []
+    },
+    "spacecatasb": {
+        "name": "Armor Set Bonuses",
+        "creator": "SpaceCat97",
+        "modid": "spacecatasb",
+        "entities": []
+    },
+    "spark": {
+        "name": "spark",
+        "creator": "Unknown",
+        "modid": "spark",
+        "entities": []
+    },
+    "stackablepotions": {
+        "name": "Stackable Potions",
+        "creator": "CursedFlames",
+        "modid": "stackablepotions",
+        "entities": []
+    },
+    "starlight": {
+        "name": "Starlight",
+        "creator": "Spottedleaf",
+        "modid": "starlight",
+        "entities": []
+    },
+    "starterkit": {
+        "name": "Starter Kit",
+        "creator": "Rick South",
+        "modid": "starterkit",
+        "entities": []
+    },
+    "railways": {
+        "name": "Create: Steam 'n' Rails",
+        "creator": "The Railways Team",
+        "modid": "railways",
+        "entities": [
+            {
+                "id": "steamcart_off",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "steamcart_on",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "storagedrawers": {
+        "name": "Storage Drawers",
+        "creator": "Unknown",
+        "modid": "storagedrawers",
+        "entities": []
+    },
+    "structureessentials": {
+        "name": "Structure Essentials mod",
+        "creator": "Someaddon",
+        "modid": "structureessentials",
+        "entities": []
+    },
+    "superflatworldnoslimes": {
+        "name": "Superflat World No Slimes",
+        "creator": "Rick South",
+        "modid": "superflatworldnoslimes",
+        "entities": []
+    },
+    "supermartijn642configlib": {
+        "name": "SuperMartijn642's Config Library",
+        "creator": "SuperMartijn642",
+        "modid": "supermartijn642configlib",
+        "entities": []
+    },
+    "supplementaries": {
+        "name": "Supplementaries",
+        "creator": "MehVahdJukaar, Plantkillable",
+        "modid": "supplementaries",
+        "entities": []
+    },
+    "swampier_swamps": {
+        "name": "Swampier Swamps",
+        "creator": "andrew0030",
+        "modid": "swampier_swamps",
+        "entities": []
+    },
+    "tacz": {
+        "name": "Timeless & Classics Guns: Zero",
+        "creator": "Serene Wave Studio | Timeless Squad",
+        "modid": "tacz",
+        "entities": []
+    },
+    "terrablender": {
+        "name": "TerraBlender",
+        "creator": "Adubbz",
+        "modid": "terrablender",
+        "entities": []
+    },
+    "hordes": {
+        "name": "The Hordes",
+        "creator": "Smileycorp",
+        "modid": "hordes",
+        "entities": []
+    },
+    "thirst": {
+        "name": "Thirst was Taken",
+        "creator": "ghen",
+        "modid": "thirst",
+        "entities": []
+    },
+    "tipsmod": {
+        "name": "Tips",
+        "creator": "Darkhax",
+        "modid": "tipsmod",
+        "entities": []
+    },
+    "toofast": {
+        "name": "Too Fast",
+        "creator": "Noobanidus",
+        "modid": "toofast",
+        "entities": []
+    },
+    "tp_shooting": {
+        "name": "Third Person Shooting: Zero",
+        "creator": "ChloePrime",
+        "modid": "tp_shooting",
+        "entities": []
+    },
+    "travelersbackpack": {
+        "name": "Traveler's Backpack",
+        "creator": "Tiviacz1337",
+        "modid": "travelersbackpack",
+        "entities": []
+    },
+    "twigs": {
+        "name": "Twigs",
+        "creator": "Ninni",
+        "modid": "twigs",
+        "entities": []
+    },
+    "unilib": {
+        "name": "UniLib",
+        "creator": "CDAGaming",
+        "modid": "unilib",
+        "entities": []
+    },
+    "vanillafix": {
+        "name": "vanillaIcecreamFix",
+        "creator": "Unknown",
+        "modid": "vanillafix",
+        "entities": []
+    },
+    "vintageimprovements": {
+        "name": "Create: Vintage Improvements",
+        "creator": "Negodya1",
+        "modid": "vintageimprovements",
+        "entities": []
+    },
+    "visualworkbench": {
+        "name": "Visual Workbench",
+        "creator": "Fuzs",
+        "modid": "visualworkbench",
+        "entities": []
+    },
+    "vmh": {
+        "name": "VMH - Variable Mob Height",
+        "creator": "Rikurob",
+        "modid": "vmh",
+        "entities": []
+    },
+    "watut": {
+        "name": "What Are They Up To",
+        "creator": "Corosus",
+        "modid": "watut",
+        "entities": []
+    },
+    "xaeroworldmap": {
+        "name": "Xaero's World Map",
+        "creator": "xaero96",
+        "modid": "xaeroworldmap",
+        "entities": []
+    },
+    "xaerominimap": {
+        "name": "Xaero's Minimap",
+        "creator": "xaero96",
+        "modid": "xaerominimap",
+        "entities": [
+            {
+                "id": "example_entity",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "example_entity_uncommented",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "axolotl",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "cat",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "enderman",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "horse",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "iron_golem",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "llama",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "pig",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "strider",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "trader_llama",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "tropical_fish",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "villager",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "wolf",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "zombie_villager",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "xaerozoomout": {
+        "name": "XaeroZoomout",
+        "creator": "NotRyken",
+        "modid": "xaerozoomout",
+        "entities": []
+    },
+    "yungsapi": {
+        "name": "YUNG's API",
+        "creator": "YUNGNICKYOUNG",
+        "modid": "yungsapi",
+        "entities": []
+    },
+    "bettermineshafts": {
+        "name": "YUNG's Better Mineshafts",
+        "creator": "YUNGNICKYOUNG",
+        "modid": "bettermineshafts",
+        "entities": []
+    },
+    "zeta": {
+        "name": "Zeta",
+        "creator": "Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar",
+        "modid": "zeta",
+        "entities": []
+    },
+    "zombie_extreme": {
+        "name": "Zombie Extreme",
+        "creator": "PyroPlayTwitch, MCreator",
+        "modid": "zombie_extreme",
+        "entities": []
+    },
+    "zombieawareness": {
+        "name": "Zombie Awareness",
+        "creator": "Corosus",
+        "modid": "zombieawareness",
+        "entities": []
+    },
+    "zume": {
+        "name": "Zume",
+        "creator": "Nolij (@xdMatthewbx#1337)",
+        "modid": "zume",
+        "entities": []
+    },
+    "securitycraft": {
+        "name": "SecurityCraft",
+        "creator": "Geforce132, bl4ckscor3, Redstone_Dubstep",
+        "modid": "securitycraft",
+        "entities": []
+    },
+    "minecraft": {
+        "name": "Minecraft",
+        "creator": "Mojang",
+        "modid": "minecraft",
+        "entities": []
+    }
+}

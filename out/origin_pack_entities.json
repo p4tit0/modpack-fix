@@ -1,0 +1,1394 @@
+{
+    "aiimprovements": {
+        "name": "AI-Improvements",
+        "creator": "Unknown",
+        "modid": "aiimprovements",
+        "entities": []
+    },
+    "alexsmobs": {
+        "name": "Alex's Mobs",
+        "creator": "Alexthe668, Carro1001",
+        "modid": "alexsmobs",
+        "entities": []
+    },
+    "alternate_current": {
+        "name": "Alternate Current",
+        "creator": "Space Walker",
+        "modid": "alternate_current",
+        "entities": []
+    },
+    "another_furniture": {
+        "name": "Another Furniture",
+        "creator": "Starfish Studios",
+        "modid": "another_furniture",
+        "entities": []
+    },
+    "ante": {
+        "name": "Anvil Never Too Expensive",
+        "creator": "Kuraion",
+        "modid": "ante",
+        "entities": []
+    },
+    "apocalypsenow": {
+        "name": "Apocalypse Now",
+        "creator": "JPZamps",
+        "modid": "apocalypsenow",
+        "entities": []
+    },
+    "appleskin": {
+        "name": "AppleSkin",
+        "creator": "squeek",
+        "modid": "appleskin",
+        "entities": []
+    },
+    "architectury": {
+        "name": "Architectury",
+        "creator": "shedaniel",
+        "modid": "architectury",
+        "entities": []
+    },
+    "armorpointspp": {
+        "name": "ArmorPoints++",
+        "creator": "Cheos",
+        "modid": "armorpointspp",
+        "entities": []
+    },
+    "artifacts": {
+        "name": "Artifacts",
+        "creator": "Unknown",
+        "modid": "artifacts",
+        "entities": []
+    },
+    "atlaslib": {
+        "name": "Atlas Lib",
+        "creator": "Smileycorp",
+        "modid": "atlaslib",
+        "entities": []
+    },
+    "attributefix": {
+        "name": "AttributeFix",
+        "creator": "Darkhax",
+        "modid": "attributefix",
+        "entities": []
+    },
+    "autoreglib": {
+        "name": "AutoRegLib",
+        "creator": "Vazkii",
+        "modid": "autoreglib",
+        "entities": []
+    },
+    "balm": {
+        "name": "Balm",
+        "creator": "BlayTheNinth",
+        "modid": "balm",
+        "entities": []
+    },
+    "beefix": {
+        "name": "Bee Fix",
+        "creator": "Lupicus, MacTso",
+        "modid": "beefix",
+        "entities": []
+    },
+    "betteradvancements": {
+        "name": "Better Advancements",
+        "creator": "Unknown",
+        "modid": "betteradvancements",
+        "entities": []
+    },
+    "betterbiomeblend": {
+        "name": "Better Biome Blend",
+        "creator": "FionaTheMortal",
+        "modid": "betterbiomeblend",
+        "entities": []
+    },
+    "bettercombat": {
+        "name": "Better Combat",
+        "creator": "Daedelus",
+        "modid": "bettercombat",
+        "entities": []
+    },
+    "bcc": {
+        "name": "Better Compatibility Checker",
+        "creator": "Gaz",
+        "modid": "bcc",
+        "entities": []
+    },
+    "betterpingdisplay": {
+        "name": "Better Ping Display",
+        "creator": "Quintinity",
+        "modid": "betterpingdisplay",
+        "entities": []
+    },
+    "biomesoplenty": {
+        "name": "Biomes O' Plenty",
+        "creator": "Forstride, Adubbz",
+        "modid": "biomesoplenty",
+        "entities": []
+    },
+    "biomespawnpoint": {
+        "name": "Biome Spawn Point",
+        "creator": "Rick South",
+        "modid": "biomespawnpoint",
+        "entities": []
+    },
+    "bookshelf": {
+        "name": "Bookshelf",
+        "creator": "Darkhax",
+        "modid": "bookshelf",
+        "entities": []
+    },
+    "buildersdelight": {
+        "name": "Builder's Delight",
+        "creator": "Tynoxs",
+        "modid": "buildersdelight",
+        "entities": []
+    },
+    "camera": {
+        "name": "Camera Mod",
+        "creator": "Max Henkel",
+        "modid": "camera",
+        "entities": []
+    },
+    "canary": {
+        "name": "Canary",
+        "creator": "AbdElAziz",
+        "modid": "canary",
+        "entities": []
+    },
+    "car": {
+        "name": "Ultimate Car Mod",
+        "creator": "Max Henkel",
+        "modid": "car",
+        "entities": []
+    },
+    "carryon": {
+        "name": "Carry On",
+        "creator": "Tschipp, Purplicious_Cow, cy4n",
+        "modid": "carryon",
+        "entities": []
+    },
+    "cfm": {
+        "name": "MrCrayfish's Furniture Mod",
+        "creator": "MrCrayfish",
+        "modid": "cfm",
+        "entities": []
+    },
+    "cgm": {
+        "name": "MrCrayfish's Gun Mod",
+        "creator": "MrCrayfish",
+        "modid": "cgm",
+        "entities": []
+    },
+    "chalk": {
+        "name": "Chalk",
+        "creator": "mortuusars",
+        "modid": "chalk",
+        "entities": []
+    },
+    "chunky": {
+        "name": "Chunky",
+        "creator": "pop4959",
+        "modid": "chunky",
+        "entities": []
+    },
+    "citadel": {
+        "name": "Citadel",
+        "creator": "Alexthe666",
+        "modid": "citadel",
+        "entities": []
+    },
+    "cleanview": {
+        "name": "CleanView",
+        "creator": "Unknown",
+        "modid": "cleanview",
+        "entities": []
+    },
+    "clickmachine": {
+        "name": "Click Machine",
+        "creator": "Unknown",
+        "modid": "clickmachine",
+        "entities": []
+    },
+    "clientcrafting": {
+        "name": "clientcrafting mod",
+        "creator": "Someaddon",
+        "modid": "clientcrafting",
+        "entities": []
+    },
+    "cloth_config": {
+        "name": "Cloth Config v4 API",
+        "creator": "Unknown",
+        "modid": "cloth_config",
+        "entities": []
+    },
+    "clumps": {
+        "name": "Clumps",
+        "creator": "Jaredlll08",
+        "modid": "clumps",
+        "entities": []
+    },
+    "cold_sweat": {
+        "name": "Cold Sweat",
+        "creator": "iMikul, chubbymomo, skinnymomo",
+        "modid": "cold_sweat",
+        "entities": []
+    },
+    "collective": {
+        "name": "Collective",
+        "creator": "Rick South",
+        "modid": "collective",
+        "entities": []
+    },
+    "comforts": {
+        "name": "Comforts",
+        "creator": "C4",
+        "modid": "comforts",
+        "entities": []
+    },
+    "configured": {
+        "name": "Configured",
+        "creator": "MrCrayfish",
+        "modid": "configured",
+        "entities": []
+    },
+    "connectivity": {
+        "name": "Connectivity Mod",
+        "creator": "Someaddons",
+        "modid": "connectivity",
+        "entities": []
+    },
+    "contenttweaker": {
+        "name": "ContentTweaker",
+        "creator": "Jaredlll08, kindlich, Skysom, StanH, and TheSilkMiner",
+        "modid": "contenttweaker",
+        "entities": []
+    },
+    "controlling": {
+        "name": "Controlling",
+        "creator": "Jaredlll08",
+        "modid": "controlling",
+        "entities": []
+    },
+    "coroutil": {
+        "name": "CoroUtil",
+        "creator": "Corosus",
+        "modid": "coroutil",
+        "entities": []
+    },
+    "corpse": {
+        "name": "Corpse",
+        "creator": "Max Henkel",
+        "modid": "corpse",
+        "entities": []
+    },
+    "cosmeticarmorreworked": {
+        "name": "CosmeticArmorReworked",
+        "creator": "Unknown",
+        "modid": "cosmeticarmorreworked",
+        "entities": []
+    },
+    "craftpresence": {
+        "name": "CraftPresence",
+        "creator": "CDA_Gaming",
+        "modid": "craftpresence",
+        "entities": []
+    },
+    "crafttweaker": {
+        "name": "CraftTweaker",
+        "creator": "Jaredlll08, Kindlich, StanHebben and TheSilkMiner",
+        "modid": "crafttweaker",
+        "entities": []
+    },
+    "create": {
+        "name": "Create",
+        "creator": "simibubi",
+        "modid": "create",
+        "entities": [
+            {
+                "id": "crafting_blueprint_large",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "crafting_blueprint_medium",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "crafting_blueprint_small",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "attachment",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "connector",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "ring",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "train_hat",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "create_sa": {
+        "name": "Create Stuff & Additions",
+        "creator": "Furti_Two",
+        "modid": "create_sa",
+        "entities": []
+    },
+    "createaddition": {
+        "name": "Create Crafts & Additions",
+        "creator": "MRH0",
+        "modid": "createaddition",
+        "entities": [
+            {
+                "id": "liquid_hat",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "createbigcannons": {
+        "name": "Create Big Cannons",
+        "creator": "rbasamoyai",
+        "modid": "createbigcannons",
+        "entities": [
+            {
+                "id": "autocannon_round",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "createdeco": {
+        "name": "Create Deco",
+        "creator": "Talrey [Code] & Kayladillo [Art]",
+        "modid": "createdeco",
+        "entities": []
+    },
+    "createtweaker": {
+        "name": "CreateTweaker",
+        "creator": "Jaredlll08",
+        "modid": "createtweaker",
+        "entities": []
+    },
+    "create_central_kitchen": {
+        "name": "Create: Central Kitchen",
+        "creator": "LimonBlaze, MarbleGate and Etherwood",
+        "modid": "create_central_kitchen",
+        "entities": []
+    },
+    "creativecore": {
+        "name": "CreativeCore",
+        "creator": "CreativeMD",
+        "modid": "creativecore",
+        "entities": []
+    },
+    "crittersandcompanions": {
+        "name": "Critters and Companions",
+        "creator": "Joosh, EterDelta",
+        "modid": "crittersandcompanions",
+        "entities": []
+    },
+    "crossbowverhaul": {
+        "name": "Crossbowverhaul",
+        "creator": "DerToaster",
+        "modid": "crossbowverhaul",
+        "entities": []
+    },
+    "culllessleaves": {
+        "name": "Cull Less Leaves Reforged",
+        "creator": "CCr4ft3r (this port), isXander (original fabric version)",
+        "modid": "culllessleaves",
+        "entities": []
+    },
+    "cupboard": {
+        "name": "Cupboard utilities",
+        "creator": "Someaddon",
+        "modid": "cupboard",
+        "entities": []
+    },
+    "curios": {
+        "name": "Curios API",
+        "creator": "C4",
+        "modid": "curios",
+        "entities": []
+    },
+    "customportalapi": {
+        "name": "Custom Portal Api [Forge]",
+        "creator": "kyrptonaught, Waterpicker, Mysticpasta1",
+        "modid": "customportalapi",
+        "entities": []
+    },
+    "customvillagertrades": {
+        "name": "Custom Villager Trades",
+        "creator": "SpaceCat97",
+        "modid": "customvillagertrades",
+        "entities": []
+    },
+    "darkness": {
+        "name": "True Darkness",
+        "creator": "Unknown",
+        "modid": "darkness",
+        "entities": []
+    },
+    "ag_day_counter": {
+        "name": "Day Counter",
+        "creator": "seabat0101",
+        "modid": "ag_day_counter",
+        "entities": []
+    },
+    "dcfixes": {
+        "name": "DeceasedCraft Fixes",
+        "creator": "Bawnorton",
+        "modid": "dcfixes",
+        "entities": []
+    },
+    "dsp": {
+        "name": "Default Server Properties",
+        "creator": "Unknown",
+        "modid": "dsp",
+        "entities": []
+    },
+    "defaultoptions": {
+        "name": "Default Options",
+        "creator": "BlayTheNinth",
+        "modid": "defaultoptions",
+        "entities": []
+    },
+    "diet": {
+        "name": "Diet",
+        "creator": "C4",
+        "modid": "diet",
+        "entities": []
+    },
+    "dietarystatistics": {
+        "name": "Dietary Statistics",
+        "creator": "Rikka Kitani, Shelter_Rin",
+        "modid": "dietarystatistics",
+        "entities": []
+    },
+    "drg_flares": {
+        "name": "DRG Flares",
+        "creator": "LizardOfOz",
+        "modid": "drg_flares",
+        "entities": []
+    },
+    "durabilitytooltip": {
+        "name": "Durability Tooltip",
+        "creator": "SuperMartijn642",
+        "modid": "durabilitytooltip",
+        "entities": []
+    },
+    "easy_villagers": {
+        "name": "Easy Villagers",
+        "creator": "Max Henkel",
+        "modid": "easy_villagers",
+        "entities": []
+    },
+    "effective_fg": {
+        "name": "Effective (Forge)",
+        "creator": "doctor4t, BottomTextDanny",
+        "modid": "effective_fg",
+        "entities": []
+    },
+    "horde_hoard": {
+        "name": "Horde Hoard",
+        "creator": "nojus, MCreator",
+        "modid": "horde_hoard",
+        "entities": []
+    },
+    "embeddium": {
+        "name": "Embeddium",
+        "creator": "embeddedt",
+        "modid": "embeddium",
+        "entities": []
+    },
+    "embellishcraft": {
+        "name": "EmbellishCraft",
+        "creator": "Mapper",
+        "modid": "embellishcraft",
+        "entities": []
+    },
+    "emojiful": {
+        "name": "Emojiful",
+        "creator": "HRZN",
+        "modid": "emojiful",
+        "entities": []
+    },
+    "enchdesc": {
+        "name": "EnchantmentDescriptions",
+        "creator": "Darkhax",
+        "modid": "enchdesc",
+        "entities": []
+    },
+    "enhancedai": {
+        "name": "Enhanced AI",
+        "creator": "Insane96MCP",
+        "modid": "enhancedai",
+        "entities": []
+    },
+    "enhancedvisuals": {
+        "name": "EnhancedVisuals",
+        "creator": "CreativeMD, Sonicjumper",
+        "modid": "enhancedvisuals",
+        "entities": []
+    },
+    "enhancedcelestials": {
+        "name": "Enhanced Celestials",
+        "creator": "Corgi Taco",
+        "modid": "enhancedcelestials",
+        "entities": []
+    },
+    "entityculling": {
+        "name": "EntityCulling",
+        "creator": "tr7zw",
+        "modid": "entityculling",
+        "entities": []
+    },
+    "entitycollisionfpsfix": {
+        "name": "Entity Collision FPS Fix",
+        "creator": "Corgi Taco, jklw10",
+        "modid": "entitycollisionfpsfix",
+        "entities": []
+    },
+    "entity_texture_features": {
+        "name": "Entity Texture Features",
+        "creator": "Traben",
+        "modid": "entity_texture_features",
+        "entities": []
+    },
+    "equipmentcompare": {
+        "name": "Equipment Compare",
+        "creator": "Grend",
+        "modid": "equipmentcompare",
+        "entities": []
+    },
+    "expandability": {
+        "name": "ExpandAbility",
+        "creator": "Florens",
+        "modid": "expandability",
+        "entities": []
+    },
+    "explorerscompass": {
+        "name": "Explorer's Compass",
+        "creator": "ChaosTheDude",
+        "modid": "explorerscompass",
+        "entities": []
+    },
+    "farmersdelight": {
+        "name": "Farmer's Delight",
+        "creator": "vectorwing",
+        "modid": "farmersdelight",
+        "entities": []
+    },
+    "fastipping": {
+        "name": "Fast IP Ping",
+        "creator": "Fallen_Breath",
+        "modid": "fastipping",
+        "entities": []
+    },
+    "fastasyncworldsave": {
+        "name": "fastasyncworldsave mod",
+        "creator": "Someaddon",
+        "modid": "fastasyncworldsave",
+        "entities": []
+    },
+    "fastfurnace": {
+        "name": "FastFurnace",
+        "creator": "Unknown",
+        "modid": "fastfurnace",
+        "entities": []
+    },
+    "fastleafdecay": {
+        "name": "FastLeafDecay",
+        "creator": "Olafski",
+        "modid": "fastleafdecay",
+        "entities": []
+    },
+    "fastsuite": {
+        "name": "Fast Suite",
+        "creator": "Unknown",
+        "modid": "fastsuite",
+        "entities": []
+    },
+    "fastbench": {
+        "name": "Fast Workbench",
+        "creator": "Unknown",
+        "modid": "fastbench",
+        "entities": []
+    },
+    "ferritecore": {
+        "name": "Ferrite Core",
+        "creator": "malte0811",
+        "modid": "ferritecore",
+        "entities": []
+    },
+    "firstaid": {
+        "name": "First Aid",
+        "creator": "Unknown",
+        "modid": "firstaid",
+        "entities": []
+    },
+    "fixedanvilrepaircost": {
+        "name": "Fixed Anvil Repair Cost",
+        "creator": "Rick South",
+        "modid": "fixedanvilrepaircost",
+        "entities": []
+    },
+    "framework": {
+        "name": "Framework",
+        "creator": "MrCrayfish",
+        "modid": "framework",
+        "entities": []
+    },
+    "ftblibrary": {
+        "name": "FTB Library",
+        "creator": "LatvianModder",
+        "modid": "ftblibrary",
+        "entities": []
+    },
+    "ftbquests": {
+        "name": "FTB Quests",
+        "creator": "LatvianModder",
+        "modid": "ftbquests",
+        "entities": []
+    },
+    "ftbteams": {
+        "name": "FTB Teams",
+        "creator": "LatvianModder",
+        "modid": "ftbteams",
+        "entities": []
+    },
+    "fxcontrol": {
+        "name": "FxControl",
+        "creator": "Unknown",
+        "modid": "fxcontrol",
+        "entities": []
+    },
+    "geckolib3": {
+        "name": "GeckoLib",
+        "creator": "Gecko, Eliot, AzureDoom, Chappie, DerToaster",
+        "modid": "geckolib3",
+        "entities": []
+    },
+    "geckoanimfix": {
+        "name": "GeckoLibIrisCompat",
+        "creator": "ElocinDev",
+        "modid": "geckoanimfix",
+        "entities": []
+    },
+    "getittogetherdrops": {
+        "name": "Get It Together, Drops!",
+        "creator": "bl4ckscor3",
+        "modid": "getittogetherdrops",
+        "entities": []
+    },
+    "globalgamerules": {
+        "name": "Global GameRules",
+        "creator": "Gory_Moon",
+        "modid": "globalgamerules",
+        "entities": []
+    },
+    "gpumemleakfix": {
+        "name": "Gpu memory leak fix",
+        "creator": "Someaddon",
+        "modid": "gpumemleakfix",
+        "entities": []
+    },
+    "guardvillagers": {
+        "name": "Guard Villagers",
+        "creator": "TallestEgg, HadeZ/SadNya69 for the textures.",
+        "modid": "guardvillagers",
+        "entities": []
+    },
+    "harvestwithease": {
+        "name": "Harvest with ease",
+        "creator": "Crystal Spider",
+        "modid": "harvestwithease",
+        "entities": []
+    },
+    "iceberg": {
+        "name": "Iceberg",
+        "creator": "Grend",
+        "modid": "iceberg",
+        "entities": []
+    },
+    "immersiveengineering": {
+        "name": "Immersive Engineering",
+        "creator": "BluSunrize and Damien A.W. Hazard",
+        "modid": "immersiveengineering",
+        "entities": []
+    },
+    "immersivepetroleum": {
+        "name": "Immersive Petroleum",
+        "creator": "Flaxbeard and Maintained by TwistedGate",
+        "modid": "immersivepetroleum",
+        "entities": []
+    },
+    "immersiveposts": {
+        "name": "Immersive Posts",
+        "creator": "TwistedGate",
+        "modid": "immersiveposts",
+        "entities": []
+    },
+    "incontrol": {
+        "name": "InControl",
+        "creator": "Unknown",
+        "modid": "incontrol",
+        "entities": []
+    },
+    "insanelib": {
+        "name": "InsaneLib",
+        "creator": "Insane96MCP",
+        "modid": "insanelib",
+        "entities": []
+    },
+    "itemfilters": {
+        "name": "Item Filters",
+        "creator": "LatvianModder",
+        "modid": "itemfilters",
+        "entities": []
+    },
+    "jei": {
+        "name": "Just Enough Items",
+        "creator": "mezz",
+        "modid": "jei",
+        "entities": []
+    },
+    "jeimultiblocks": {
+        "name": "Just Enough Immersive Multiblocks",
+        "creator": "sguest",
+        "modid": "jeimultiblocks",
+        "entities": []
+    },
+    "jeitweaker": {
+        "name": "JEI Tweaker",
+        "creator": "Jaredlll08",
+        "modid": "jeitweaker",
+        "entities": []
+    },
+    "justenoughprofessions": {
+        "name": "Just Enough Professions (JEP)",
+        "creator": "Mrbysco, ShyNieke",
+        "modid": "justenoughprofessions",
+        "entities": []
+    },
+    "kiwi": {
+        "name": "Kiwi",
+        "creator": "Snownee",
+        "modid": "kiwi",
+        "entities": []
+    },
+    "konkrete": {
+        "name": "Konkrete",
+        "creator": "Keksuccino",
+        "modid": "konkrete",
+        "entities": []
+    },
+    "Unknown": {
+        "name": "Unknown",
+        "creator": "Unknown",
+        "modid": "Unknown",
+        "entities": []
+    },
+    "kubejs": {
+        "name": "KubeJS",
+        "creator": "LatvianModder",
+        "modid": "kubejs",
+        "entities": []
+    },
+    "kubejsoffline": {
+        "name": "KubeJS Offline (Forge)",
+        "creator": "ILIKEPIEFOO2",
+        "modid": "kubejsoffline",
+        "entities": []
+    },
+    "lazydfu": {
+        "name": "LazyDFU",
+        "creator": "tuxed",
+        "modid": "lazydfu",
+        "entities": []
+    },
+    "lightspeed": {
+        "name": "Lightspeed",
+        "creator": "CCr4ft3r",
+        "modid": "lightspeed",
+        "entities": []
+    },
+    "logbegone": {
+        "name": "Log Begone",
+        "creator": "AzureDoomC, Bravarly",
+        "modid": "logbegone",
+        "entities": []
+    },
+    "lootr": {
+        "name": "Lootr",
+        "creator": "Noobanidus",
+        "modid": "lootr",
+        "entities": []
+    },
+    "lostcities": {
+        "name": "LostCities",
+        "creator": "Unknown",
+        "modid": "lostcities",
+        "entities": []
+    },
+    "lostsouls": {
+        "name": "LostSouls",
+        "creator": "Unknown",
+        "modid": "lostsouls",
+        "entities": []
+    },
+    "lucent": {
+        "name": "Lucent",
+        "creator": "Silver_David",
+        "modid": "lucent",
+        "entities": []
+    },
+    "mapperbase": {
+        "name": "Mapper Base",
+        "creator": "Mapper",
+        "modid": "mapperbase",
+        "entities": []
+    },
+    "maxhealthfix": {
+        "name": "MaxHealthFix",
+        "creator": "Darkhax",
+        "modid": "maxhealthfix",
+        "entities": []
+    },
+    "dummmmmmy": {
+        "name": "MmmMmmMmmMmm",
+        "creator": "MehVahdJukaar, bonusboni",
+        "modid": "dummmmmmy",
+        "entities": []
+    },
+    "mobsunscreen": {
+        "name": "Mob Sunscreen",
+        "creator": "Kreezxil",
+        "modid": "mobsunscreen",
+        "entities": []
+    },
+    "mobtimizations": {
+        "name": "Mobtimizations",
+        "creator": "Corosus",
+        "modid": "mobtimizations",
+        "entities": []
+    },
+    "modernfix": {
+        "name": "ModernFix",
+        "creator": "embeddedt",
+        "modid": "modernfix",
+        "entities": []
+    },
+    "mousetweaks": {
+        "name": "Mouse Tweaks",
+        "creator": "Ivan Molodetskikh (YaLTeR)",
+        "modid": "mousetweaks",
+        "entities": []
+    },
+    "mutationcraft": {
+        "name": "Mutationcraft",
+        "creator": "ASEStefan, MCreator",
+        "modid": "mutationcraft",
+        "entities": []
+    },
+    "nameless_trinkets": {
+        "name": "Nameless Trinkets",
+        "creator": "Cozary",
+        "modid": "nameless_trinkets",
+        "entities": []
+    },
+    "nanhealthfixer": {
+        "name": "NaNHealthFixer",
+        "creator": "TeamPotato",
+        "modid": "nanhealthfixer",
+        "entities": []
+    },
+    "naturescompass": {
+        "name": "Nature's Compass",
+        "creator": "ChaosTheDude",
+        "modid": "naturescompass",
+        "entities": []
+    },
+    "nerb": {
+        "name": "Not Enough Recipe Book",
+        "creator": "SSKirillSS",
+        "modid": "nerb",
+        "entities": []
+    },
+    "zombiemobs": {
+        "name": "NoCube's Zombie Mobs",
+        "creator": "NoCube",
+        "modid": "zombiemobs",
+        "entities": []
+    },
+    "notenoughanimations": {
+        "name": "NotEnoughAnimations",
+        "creator": "tr7zw",
+        "modid": "notenoughanimations",
+        "entities": []
+    },
+    "novillagerdm": {
+        "name": "No Villager Death Messages",
+        "creator": "Unknown",
+        "modid": "novillagerdm",
+        "entities": []
+    },
+    "irisflw": {
+        "name": "Oculus Flywheel Compat",
+        "creator": "Leon",
+        "modid": "irisflw",
+        "entities": []
+    },
+    "oculus": {
+        "name": "Oculus",
+        "creator": "coderbot, IMS212, Justsnoopy30, FoundationGames",
+        "modid": "oculus",
+        "entities": []
+    },
+    "oculusparticlefix": {
+        "name": "Oculus Particle Fix",
+        "creator": "LaidBackSloth",
+        "modid": "oculusparticlefix",
+        "entities": []
+    },
+    "openpartiesandclaims": {
+        "name": "Open Parties and Claims",
+        "creator": "xaero96 and other contributors",
+        "modid": "openpartiesandclaims",
+        "entities": []
+    },
+    "oretweaker": {
+        "name": "Ore Tweaker",
+        "creator": "Ewy",
+        "modid": "oretweaker",
+        "entities": []
+    },
+    "pfm": {
+        "name": "Paladin's Furniture",
+        "creator": "UnlikePaladin",
+        "modid": "pfm",
+        "entities": []
+    },
+    "parcool": {
+        "name": "ParCool!",
+        "creator": "alRex_U",
+        "modid": "parcool",
+        "entities": []
+    },
+    "patchouli": {
+        "name": "Patchouli",
+        "creator": "Vazkii",
+        "modid": "patchouli",
+        "entities": []
+    },
+    "pehkui": {
+        "name": "Pehkui",
+        "creator": "Virtuoel",
+        "modid": "pehkui",
+        "entities": []
+    },
+    "physicsmod": {
+        "name": "Physics Mod",
+        "creator": "Haubna",
+        "modid": "physicsmod",
+        "entities": []
+    },
+    "pipez": {
+        "name": "Pipez",
+        "creator": "Max Henkel",
+        "modid": "pipez",
+        "entities": []
+    },
+    "placebo": {
+        "name": "Placebo",
+        "creator": "Unknown",
+        "modid": "placebo",
+        "entities": []
+    },
+    "playeranimator": {
+        "name": "Player Animator",
+        "creator": "KosmX",
+        "modid": "playeranimator",
+        "entities": []
+    },
+    "pluto": {
+        "name": "Pluto",
+        "creator": "AbdElAziz",
+        "modid": "pluto",
+        "entities": []
+    },
+    "polymorph": {
+        "name": "Polymorph",
+        "creator": "C4",
+        "modid": "polymorph",
+        "entities": []
+    },
+    "presencefootsteps": {
+        "name": "Presence Footsteps (Forge)",
+        "creator": "Hurricaaane, Sollace, Paint_Ninja",
+        "modid": "presencefootsteps",
+        "entities": []
+    },
+    "puffish_skills": {
+        "name": "Pufferfish's Skills",
+        "creator": "Pufferfish",
+        "modid": "puffish_skills",
+        "entities": []
+    },
+    "quark": {
+        "name": "Quark",
+        "creator": "Vazkii, WireSegal, MCVinnyq, Sully",
+        "modid": "quark",
+        "entities": []
+    },
+    "refinedstorage": {
+        "name": "Refined Storage",
+        "creator": "Refined Mods",
+        "modid": "refinedstorage",
+        "entities": []
+    },
+    "rhino": {
+        "name": "Rhino",
+        "creator": "LatvianModder, Mozilla",
+        "modid": "rhino",
+        "entities": []
+    },
+    "sodiumextra": {
+        "name": "Rubidium Extra",
+        "creator": "FlashyReese, dima_dencep",
+        "modid": "sodiumextra",
+        "entities": []
+    },
+    "saturn": {
+        "name": "Saturn",
+        "creator": "AbdElAziz",
+        "modid": "saturn",
+        "entities": []
+    },
+    "selene": {
+        "name": "Selene",
+        "creator": "MehVahdJukaar",
+        "modid": "selene",
+        "entities": []
+    },
+    "sereneseasons": {
+        "name": "Serene Seasons",
+        "creator": "Adubbz, Forstride",
+        "modid": "sereneseasons",
+        "entities": []
+    },
+    "shouldersurfing": {
+        "name": "Shoulder Surfing",
+        "creator": "Unknown",
+        "modid": "shouldersurfing",
+        "entities": []
+    },
+    "shutupexperimentalsettings": {
+        "name": "Shutup Experimental Settings!",
+        "creator": "Corgi Taco & RdvDev2",
+        "modid": "shutupexperimentalsettings",
+        "entities": []
+    },
+    "simplebackups": {
+        "name": "Simple Backups",
+        "creator": "MelanX",
+        "modid": "simplebackups",
+        "entities": []
+    },
+    "simpleplanes": {
+        "name": "Simple Planes",
+        "creator": "adoxentor, Przemyk",
+        "modid": "simpleplanes",
+        "entities": []
+    },
+    "simpleshops": {
+        "name": "Simple Shops",
+        "creator": "Wolforce",
+        "modid": "simpleshops",
+        "entities": []
+    },
+    "simplylight": {
+        "name": "Simply Light",
+        "creator": "Flanks255",
+        "modid": "simplylight",
+        "entities": []
+    },
+    "smoothboot": {
+        "name": "Smooth Boot (Reloaded)",
+        "creator": "AbdElAziz",
+        "modid": "smoothboot",
+        "entities": []
+    },
+    "smoothchunk": {
+        "name": "Smoothchunk mod",
+        "creator": "Someaddons",
+        "modid": "smoothchunk",
+        "entities": []
+    },
+    "snowrealmagic": {
+        "name": "Snow! Real Magic!",
+        "creator": "Snownee, minzhi, WZD",
+        "modid": "snowrealmagic",
+        "entities": []
+    },
+    "solcarrot": {
+        "name": "Spice of Life: Carrot Edition",
+        "creator": "Unknown",
+        "modid": "solcarrot",
+        "entities": []
+    },
+    "sophisticatedbackpacks": {
+        "name": "Sophisticated Backpacks",
+        "creator": "Unknown",
+        "modid": "sophisticatedbackpacks",
+        "entities": []
+    },
+    "sophisticatedcore": {
+        "name": "Sophisticated Core",
+        "creator": "Unknown",
+        "modid": "sophisticatedcore",
+        "entities": []
+    },
+    "sound_physics_remastered": {
+        "name": "Sound Physics Remastered",
+        "creator": "Unknown",
+        "modid": "sound_physics_remastered",
+        "entities": []
+    },
+    "spacecatasb": {
+        "name": "Armor Set Bonuses",
+        "creator": "SpaceCat97",
+        "modid": "spacecatasb",
+        "entities": []
+    },
+    "spark": {
+        "name": "spark",
+        "creator": "Unknown",
+        "modid": "spark",
+        "entities": []
+    },
+    "stackablepotions": {
+        "name": "Stackable Potions",
+        "creator": "CursedFlames",
+        "modid": "stackablepotions",
+        "entities": []
+    },
+    "starlight": {
+        "name": "Starlight",
+        "creator": "Spottedleaf",
+        "modid": "starlight",
+        "entities": []
+    },
+    "starterkit": {
+        "name": "Starter Kit",
+        "creator": "Rick South",
+        "modid": "starterkit",
+        "entities": []
+    },
+    "railways": {
+        "name": "Create: Steam 'n Rails",
+        "creator": "The Railways Team",
+        "modid": "railways",
+        "entities": [
+            {
+                "id": "steamcart_on",
+                "display_name": "Unknown"
+            },
+            {
+                "id": "steamcart_off",
+                "display_name": "Unknown"
+            }
+        ]
+    },
+    "storagedrawers": {
+        "name": "Storage Drawers",
+        "creator": "Unknown",
+        "modid": "storagedrawers",
+        "entities": []
+    },
+    "structureessentials": {
+        "name": "Structure Essentials mod",
+        "creator": "Someaddon",
+        "modid": "structureessentials",
+        "entities": []
+    },
+    "supermartijn642configlib": {
+        "name": "SuperMartijn642's Config Library",
+        "creator": "SuperMartijn642",
+        "modid": "supermartijn642configlib",
+        "entities": []
+    },
+    "supermartijn642corelib": {
+        "name": "SuperMartijn642's Core Lib",
+        "creator": "SuperMartijn642",
+        "modid": "supermartijn642corelib",
+        "entities": []
+    },
+    "swingthroughgrass": {
+        "name": "SwingThroughGrass",
+        "creator": "Exidex",
+        "modid": "swingthroughgrass",
+        "entities": []
+    },
+    "tac": {
+        "name": "Timeless and Classics Guns",
+        "creator": "Timeless Development Team",
+        "modid": "tac",
+        "entities": []
+    },
+    "terrablender": {
+        "name": "TerraBlender",
+        "creator": "Adubbz",
+        "modid": "terrablender",
+        "entities": []
+    },
+    "textrues_embeddium_options": {
+        "name": "TexTrue's Embeddium Options",
+        "creator": "TexTrue, TexTrueStudio",
+        "modid": "textrues_embeddium_options",
+        "entities": []
+    },
+    "hordes": {
+        "name": "The Hordes",
+        "creator": "Smileycorp",
+        "modid": "hordes",
+        "entities": []
+    },
+    "theoneprobe": {
+        "name": "The One Probe",
+        "creator": "Unknown",
+        "modid": "theoneprobe",
+        "entities": []
+    },
+    "undead_revamp2": {
+        "name": "Undead_revamp2",
+        "creator": "admin, MCreator",
+        "modid": "undead_revamp2",
+        "entities": []
+    },
+    "thirst": {
+        "name": "Thirst was Taken",
+        "creator": "ghen",
+        "modid": "thirst",
+        "entities": []
+    },
+    "rocks": {
+        "name": "This Rocks! (Forge)",
+        "creator": "Motschen, TeamMidnightDust",
+        "modid": "rocks",
+        "entities": []
+    },
+    "tipsmod": {
+        "name": "Tips",
+        "creator": "Darkhax",
+        "modid": "tipsmod",
+        "entities": []
+    },
+    "toofast": {
+        "name": "Too Fast",
+        "creator": "Noobanidus",
+        "modid": "toofast",
+        "entities": []
+    },
+    "tp_shooting": {
+        "name": "Third Person Shooting",
+        "creator": "",
+        "modid": "tp_shooting",
+        "entities": []
+    },
+    "trashcans": {
+        "name": "Trash Cans",
+        "creator": "SuperMartijn642",
+        "modid": "trashcans",
+        "entities": []
+    },
+    "trashslot": {
+        "name": "TrashSlot",
+        "creator": "BlayTheNinth",
+        "modid": "trashslot",
+        "entities": []
+    },
+    "treeharvester": {
+        "name": "Tree Harvester",
+        "creator": "Rick South",
+        "modid": "treeharvester",
+        "entities": []
+    },
+    "vmh": {
+        "name": "VMH - Variable Mob Height",
+        "creator": "Rikurob",
+        "modid": "vmh",
+        "entities": []
+    },
+    "voicechat": {
+        "name": "Simple Voice Chat",
+        "creator": "Unknown",
+        "modid": "voicechat",
+        "entities": []
+    },
+    "watut": {
+        "name": "What Are They Up To",
+        "creator": "Corosus",
+        "modid": "watut",
+        "entities": []
+    },
+    "xaeroworldmap": {
+        "name": "Xaero's World Map",
+        "creator": "Xaero96",
+        "modid": "xaeroworldmap",
+        "entities": []
+    },
+    "xaerominimapfair": {
+        "name": "Xaero's Minimap",
+        "creator": "Xaero96",
+        "modid": "xaerominimapfair",
+        "entities": []
+    },
+    "xpbook": {
+        "name": "XP Tome",
+        "creator": "bl4ckscor3",
+        "modid": "xpbook",
+        "entities": []
+    },
+    "yungsapi": {
+        "name": "YUNG's API",
+        "creator": "YUNGNICKYOUNG",
+        "modid": "yungsapi",
+        "entities": []
+    },
+    "bettermineshafts": {
+        "name": "YUNG's Better Mineshafts",
+        "creator": "YUNGNICKYOUNG",
+        "modid": "bettermineshafts",
+        "entities": []
+    },
+    "zombie_extreme": {
+        "name": "Zombie Extreme",
+        "creator": "PyroPlayTwitch, MCreator",
+        "modid": "zombie_extreme",
+        "entities": []
+    },
+    "zombieawareness": {
+        "name": "Zombie Awareness",
+        "creator": "Corosus",
+        "modid": "zombieawareness",
+        "entities": []
+    },
+    "securitycraft": {
+        "name": "SecurityCraft",
+        "creator": "Geforce132, bl4ckscor3, Redstone_Dubstep",
+        "modid": "securitycraft",
+        "entities": []
+    },
+    "minecraft": {
+        "name": "Minecraft",
+        "creator": "Mojang",
+        "modid": "minecraft",
+        "entities": []
+    }
+}
