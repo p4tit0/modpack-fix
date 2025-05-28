@@ -1,4 +1,5 @@
 import difflib
+from visualization import BlockVisualizer
 from typing import Dict, List, Any, Optional, Tuple
 from utils import load_json, save_file, bool_input, int_range_input, read_config
 from configparser import ConfigParser
@@ -7,6 +8,7 @@ import os
 class BlockReplacer:
     def __init__(self, config_path: str = 'config.ini'):
         self.config = self._load_config(config_path)
+        self.visualizer = BlockVisualizer()
         self.existing_blocks = None
         self.missing_blocks = None
         self.existing_block_ids = []
@@ -109,6 +111,10 @@ class BlockReplacer:
         """Obtém o bloco de substituição para um bloco faltante."""
         while True:
             similar_blocks = self.find_similar_blocks(missing_block)
+            
+            if missing_block.get('variant_info'):
+                self.visualizer.show_in_blockbench(missing_block, missing_block)
+            
             self.display_similar_blocks(missing_block, similar_blocks)
             
             try:
